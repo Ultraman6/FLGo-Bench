@@ -1,6 +1,5 @@
 import argparse
 import os.path
-
 import numpy as np
 import yaml
 import flgo.experiment.analyzer as fea
